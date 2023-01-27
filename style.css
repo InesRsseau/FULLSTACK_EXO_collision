@@ -1,0 +1,10 @@
+#mario {
+  position: absolute;
+  left: 600px;
+  top: 300px;
+}
+#luigi {
+  position: absolute;
+  left: 800px;
+  top: 400px;
+}
